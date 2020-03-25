@@ -1,8 +1,12 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/andriuk/andriuk.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello Guest 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name`s Yurii,
+
+Перший крок для продолження роботи 
+
+Навички які потрібно розвивати і проекти 
 
 ### Markdown
 

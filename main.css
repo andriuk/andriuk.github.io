@@ -2,3 +2,33 @@ body {
   float: inline-start;
   background-color: #f5f6f8; 
 }
+
+.menu {
+  position: relative;
+  display: block;
+  width: 100%;
+  min-width: 320px;
+  height: 50px;
+  margin: 0 auto;
+  padding-left: 10px;
+  box-sizing: border-box;
+  overflow: hidden;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  z-index: 1002;
+}
+
+.menu-item {
+  margin: 0;
+  position: relative;
+  list-style-type: none;
+  height: 50px;
+  margin-left: 2%;
+  line-height: 43px;
+  vertical-align: top;
+  display: inline-block;
+  font-weight: normal;
+  font-style: normal;
+}

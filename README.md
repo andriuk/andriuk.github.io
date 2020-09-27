@@ -1,7 +1,7 @@
 #Welcome to my Page 
 ### Yurii's page 
 
-- [ ]  Add list about the experience Ukraine
-- [ ]  Chance color
+- [x]  Add list about the experience Ukraine
+- [x]  Chance color
 - [ ]  Expert system
 - [ ]  For other language

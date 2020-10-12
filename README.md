@@ -10,13 +10,14 @@
 
 ## Skills 
 - [x]  Skils AutoCad 
+- [x]  Skill Linux 
 - [ ]  Skils UI/UX 
 - [ ]  Electricals skills 
-- [ ]  
+  
 
 ## Main Page 
 - [ ] Add option language 
-- [ ] 
+
 
 ## Education 
 - [x] CNU
